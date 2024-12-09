@@ -1,0 +1,6 @@
+**\obj\*
+**\bin|*
+**\*.txt
+.idea
+**\tests
+/.idea/
