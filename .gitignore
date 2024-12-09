@@ -1,4 +1,6 @@
-/tests/AoCTests.csproj
+/tests/
 **/.idea/
 **/obj/
 **/bin/
+**/input.txt
+**/locations.txt
